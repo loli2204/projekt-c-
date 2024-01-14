@@ -1,0 +1,14 @@
+/Users/louiselindberg/JulSpel/bin/Debug/net7.0/JulSpel
+/Users/louiselindberg/JulSpel/bin/Debug/net7.0/JulSpel.deps.json
+/Users/louiselindberg/JulSpel/bin/Debug/net7.0/JulSpel.runtimeconfig.json
+/Users/louiselindberg/JulSpel/bin/Debug/net7.0/JulSpel.dll
+/Users/louiselindberg/JulSpel/bin/Debug/net7.0/JulSpel.pdb
+/Users/louiselindberg/JulSpel/obj/Debug/net7.0/JulSpel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/louiselindberg/JulSpel/obj/Debug/net7.0/JulSpel.AssemblyInfoInputs.cache
+/Users/louiselindberg/JulSpel/obj/Debug/net7.0/JulSpel.AssemblyInfo.cs
+/Users/louiselindberg/JulSpel/obj/Debug/net7.0/JulSpel.csproj.CoreCompileInputs.cache
+/Users/louiselindberg/JulSpel/obj/Debug/net7.0/JulSpel.dll
+/Users/louiselindberg/JulSpel/obj/Debug/net7.0/refint/JulSpel.dll
+/Users/louiselindberg/JulSpel/obj/Debug/net7.0/JulSpel.pdb
+/Users/louiselindberg/JulSpel/obj/Debug/net7.0/JulSpel.genruntimeconfig.cache
+/Users/louiselindberg/JulSpel/obj/Debug/net7.0/ref/JulSpel.dll
